@@ -19,7 +19,7 @@ Features:
 
 Caveats:
 
-- This metholodolgy was used in a real production application and works well, however this code has been over-simplified and abstracted from its original form in order to    remove any IP risk.
+- This methodology was used in a real production application and works well, however this code has been over-simplified and abstracted from its original form in order to    remove any IP risk.
  - Min width set to 600px - may not scale that well for smaller screens/mobiles.
  - Consider hiding event text on smaller screens.
  - Test with specific event data accordingly.
